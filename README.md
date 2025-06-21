@@ -2,10 +2,6 @@
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="coding-img" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-- 📫 How to reach me **ashishjha970925@gmail.com**
-
-- 📄 Know about my experiences [here]()
-
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
