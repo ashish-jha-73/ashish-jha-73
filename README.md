@@ -2,8 +2,8 @@
 <h3 align="center">Passionate Programmer | CSE @ IIT Bombay | Curious Explorer</h3>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="400" alt="Coding GIF" />
-</p>
+<!--   <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="400" alt="Coding GIF" />
+</p> -->
 
 ---
 
