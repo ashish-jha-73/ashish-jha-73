@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Ashish </h1>
 <h3 align="center">Passionate Programmer | CSE @ IIT Bombay | Curious Explorer</h3>
 
 <p align="center">
