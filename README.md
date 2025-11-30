@@ -44,10 +44,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-jha-73&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-jha-73&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
