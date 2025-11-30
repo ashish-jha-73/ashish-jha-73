@@ -10,8 +10,6 @@
 ### 👨‍💻 About Me
 - 🎓 **Undergraduate at IIT Bombay**, majoring in **Computer Science & Engineering**
 - 💻 I love solving problems, building cool projects, and exploring systems and AI
-- 🔭 Currently working on a **Chess Engine in C++ using SFML**
-- 🌱 Learning more about **algorithms**, **machine learning**, and **low-level systems**
 - ⚡ **Fun Fact:** I think I'm funnier than my code's compiler errors 😄
 
 ---
