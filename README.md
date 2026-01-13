@@ -41,14 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-jha-73&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### 🔍 Currently Exploring
 - 📚 Competitive Programming (Codeforces, Leetcode)
 - 🎮 Game Development (SFML, OpenGL basics)
